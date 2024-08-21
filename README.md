@@ -1,4 +1,4 @@
-# Power-BI-Project
+# Power BI Project
 This project is from PwC Switzerland and is offered through Forage.
 
 Project 1: Call Center Trends
